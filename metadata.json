@@ -1,0 +1,13 @@
+{
+  "name": "geoffwilliams-pe_repo",
+  "version": "0.1.0",
+  "author": "geoffwilliams",
+  "summary": "mock version of pe_repo module -- for RSpec testing",
+  "license": "Apache-2.0",
+  "source": "https://github.com/GeoffWilliams/geoffwilliams-pe_repo",
+  "project_page": "https://github.com/GeoffWilliams/geoffwilliams-pe_repo",
+  "issues_url": "https://github.com/GeoffWilliams/geoffwilliams-pe_repo/issues",
+  "dependencies": [
+  ]
+}
+
