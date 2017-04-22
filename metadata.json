@@ -1,6 +1,6 @@
 {
   "name": "geoffwilliams-pe_repo",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "author": "geoffwilliams",
   "summary": "mock version of pe_repo module -- for RSpec testing",
   "license": "Apache-2.0",
@@ -10,4 +10,3 @@
   "dependencies": [
   ]
 }
-
